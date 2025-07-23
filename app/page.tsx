@@ -59,7 +59,7 @@ export default function HomePage() {
             setTimeout(() => URL.revokeObjectURL(mergedPdfUrl), 100)
           }}
         >
-          Download Merged PDF
+          Save merged PDF
         </a>
       )}
     </main>
